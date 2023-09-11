@@ -1,0 +1,118 @@
+
+.per-info{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.upper{
+    width: 80vw;
+    height: 95vh;
+    margin-top: 30px;
+    display: flex;
+flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    box-shadow: 5px 10px rgb(226, 220, 220);
+    border: 2px solid rgb(84, 84, 229);
+}
+.x{
+    margin-right: 100px;
+}
+.sub-up{
+    width: 80vw;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.imag{
+    height: 30vh;
+    width: 15vw;
+    background-color: rgb(107, 211, 231);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imag pre{
+    margin-right: 40px;
+}
+
+.per-info-1{
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.mid{
+    width: 80vw;
+    height: 70vh;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 5px 10px rgb(226, 220, 220);
+    border: 2px solid rgb(84, 84, 229);
+}
+.per-info-2{
+    width: 80vw;
+    /* height: 70vh; */
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.lower{
+    width: 80vw;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 10px rgb(226, 220, 220);
+    border: 2px solid rgb(84, 84, 229);
+}
+.per-info-3{
+    width: 80vw;
+    /* height: 70vh; */
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+mat-card-content{
+height: 70px;
+width: 300px;
+}
+
+#last-in{
+    visibility: hidden;
+}
+.example-full-width{
+    width: 300px;
+}
+.len{
+    
+    width: 750px;
+}
+.xyz{
+    height: 70px;
+    width: 750px;
+    }
